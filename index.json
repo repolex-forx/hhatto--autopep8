@@ -1,0 +1,11 @@
+{
+  "org": "hhatto",
+  "repo": "autopep8",
+  "versions": [
+    {
+      "commit": "11e31c92e940674cdc12958656a82c8be5381f47",
+      "tag": "ver1.2.2",
+      "parsed_at": "2026-09-27T19:04:37.896228+00:00"
+    }
+  ]
+}
